@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=PhD+Researcher;Affective+Computing;VR+for+Rehabilitation;Neuroscience+%26+Tech" alt="Typing SVG" /></a>
 
-I am a PhD researcher at NeuroRehabilitation, focusing on Human-Machine Interaction (HMI), Virtual Reality (VR), and affective computing for rehabilitation. My work bridges the gap between psychology, neuroscience, and modern technology.
+I am a PhD researcher at [NeuroRehabLab](https://neurorehablab.arditi.pt/), focusing on Human-Machine Interaction (HMI), Virtual Reality (VR), and affective computing for rehabilitation. My work bridges the gap between psychology, neuroscience, and modern technology.
 
 ### 🔗 Connect with me
 [![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome)](https://diogoaabranco.github.io/)
