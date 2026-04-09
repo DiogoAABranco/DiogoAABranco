@@ -1,4 +1,4 @@
-# Hi there, I'm Diogo 👋
+# # Diogo Branco | PhD Researcher & Developer 🧠💻
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=PhD+Researcher;Affective+Computing;VR+for+Rehabilitation;Neuroscience+%26+Tech" alt="Typing SVG" /></a>
 
