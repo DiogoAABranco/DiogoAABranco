@@ -8,11 +8,11 @@ I am a PhD researcher at NeuroRehabilitation, focusing on Human-Machine Interact
 [![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome)](https://diogoaabranco.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-branco-186499194)
 [![ORCID](https://img.shields.io/badge/ORCID-Research-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6269-6192)
-
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ur-VgPUAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Diogo-Branco)
 ---
 
 ### 💻 Tech Stack & Tools
-*(Add the logos of the software/languages you use most here)*
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
@@ -22,8 +22,7 @@ I am a PhD researcher at NeuroRehabilitation, focusing on Human-Machine Interact
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiogoAABranco&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAABranco&layout=compact&theme=nord&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=diogoaabranco&theme=nord&hide_border=true" alt="GitHub Streak" width="80%" />
 </div>
 
 ---
